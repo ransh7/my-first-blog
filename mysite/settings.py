@@ -25,7 +25,7 @@ SECRET_KEY = '&$ngdf1(axq#mf5m&5b&y7#c%mboo*rm(f6at++6#7!h+v$zwr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
 
 
 # Application definition
